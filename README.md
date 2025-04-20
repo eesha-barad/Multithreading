@@ -12,5 +12,7 @@ This assignment demonstrates the working of Java Threads using a simple example.
 ## How to Run
 1. Compile:
    ```bash
-   javac *.java
-   
+   javac Main.java
+   ```
+    ```bash
+   java Main
